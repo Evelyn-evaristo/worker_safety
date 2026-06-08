@@ -28,6 +28,10 @@ O Worker Safety é uma plataforma voltada para a prevenção de acidentes e o ac
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
+- PHP
+- C++
+- SQL
+- Arduino
 - CSS3
 - JavaScript
 - Git e GitHub
